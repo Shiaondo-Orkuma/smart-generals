@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smart-generals/static/css/main.92b7e17d.chunk.css",
+    "main.js": "/smart-generals/static/js/main.2ccfbd26.chunk.js",
+    "main.js.map": "/smart-generals/static/js/main.2ccfbd26.chunk.js.map",
+    "runtime-main.js": "/smart-generals/static/js/runtime-main.f59b45c9.js",
+    "runtime-main.js.map": "/smart-generals/static/js/runtime-main.f59b45c9.js.map",
+    "static/js/2.0a6b9ac9.chunk.js": "/smart-generals/static/js/2.0a6b9ac9.chunk.js",
+    "static/js/2.0a6b9ac9.chunk.js.map": "/smart-generals/static/js/2.0a6b9ac9.chunk.js.map",
+    "index.html": "/smart-generals/index.html",
+    "precache-manifest.4e4f9b6aad1c6c31d06aeba0e142d291.js": "/smart-generals/precache-manifest.4e4f9b6aad1c6c31d06aeba0e142d291.js",
+    "service-worker.js": "/smart-generals/service-worker.js",
+    "static/css/main.92b7e17d.chunk.css.map": "/smart-generals/static/css/main.92b7e17d.chunk.css.map",
+    "static/js/2.0a6b9ac9.chunk.js.LICENSE.txt": "/smart-generals/static/js/2.0a6b9ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f59b45c9.js",
+    "static/js/2.0a6b9ac9.chunk.js",
+    "static/css/main.92b7e17d.chunk.css",
+    "static/js/main.2ccfbd26.chunk.js"
+  ]
+}
